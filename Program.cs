@@ -74,9 +74,9 @@ public class Program
 
             Console.WriteLine("Nani ga suki?");
             await Task.Delay(1500);
-            
+
             member.PerformLyric();
-            await Task.Delay(4000);
+            await Task.Delay(3800);
         }
     }
 }
